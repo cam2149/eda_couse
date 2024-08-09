@@ -1,4 +1,4 @@
-ID,Genero,Married,Dependientes, Educacion, Autoempleado, Ingresos_Solicitante, Ingresos_Cosolicitante, Monto_Prestamo, Plazo_Prestamo, Historial_Crediticio, Area_Propiedad, Estado_Prestamo
+ID,Genero,Married,Dependientes,Educacion,Autoempleado,Ingresos_Solicitante,Ingresos_Cosolicitante,Monto_Prestamo,Plazo_Prestamo,Historial_Crediticio,Area_Propiedad,Estado_Prestamo
 LP001002,Hombre,No,0,Graduado,No,5849,0,,360,1,Urbano,Y
 LP001003,Hombre,Si,1,Graduado,No,4583,1508,128,360,1,Rural,N
 LP001005,Hombre,Si,0,Graduado,Si,3000,0,66,360,1,Urbano,Y
